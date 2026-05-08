@@ -21,15 +21,6 @@
 
 I build AI and data projects that move from notebook experiments into useful software. My current focus is applied machine learning, detection systems, data visualization, and full-stack products that make model outputs easier to understand and use.
 
-```python
-wai_yan = {
-    "focus": ["Applied AI", "Machine Learning", "Data Engineering", "Full-stack AI products"],
-    "building": ["detection systems", "ML experiments", "developer-friendly AI apps"],
-    "learning": ["MLOps", "agentic workflows", "production-ready model evaluation"],
-    "style": "ship useful things, measure them, improve them"
-}
-```
-
 ## AI Engineer Toolkit
 
 <p>
@@ -63,17 +54,6 @@ wai_yan = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CharmTzy&theme=tokyonight&hide_border=true" alt="CharmTzy GitHub streak" />
 </p>
-
-## Achievements
-
-Current GitHub achievements: `Pair Extraordinaire x3`, `YOLO`, and `Quickdraw`.
-
-Next badges I am working toward:
-
-- `Pull Shark`: contribute pull requests that get merged.
-- `Starstruck`: build a public project useful enough to earn stars.
-- `Galaxy Brain`: answer technical questions in GitHub Discussions.
-- `Open Sourcerer`: contribute meaningful PRs across public repositories.
 
 ## What I'm Open To
 
