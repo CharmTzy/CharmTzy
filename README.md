@@ -4,9 +4,7 @@
 
 ## Hi, I'm Wai Yan
 
-**AI Engineer + Software Developer**
-
-I build AI and data projects that move from notebook experiments into useful software. My current focus is applied machine learning, detection systems, data visualization, and full-stack products that make model outputs easier to understand and use.
+I build AI and software projects that move from notebook experiments into useful software. My current focus is applied ai, machine learning, data visualization, and full-stack products that make model outputs easier to understand and use.
 
 ## AI Engineer Toolkit
 
