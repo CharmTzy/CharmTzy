@@ -2,21 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:1d4ed8,100:22c55e&text=Wai%20Yan%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Machine%20Learning%20%2B%20Data%20%2B%20Product%20Engineering&descAlignY=58&descSize=16" alt="Wai Yan | AI Engineer" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/CharmTzy?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CharmTzy?style=for-the-badge&logo=github&label=Followers&color=22c55e">
-  </a>
-  <a href="https://github.com/CharmTzy?tab=repositories">
-    <img alt="AI engineer" src="https://img.shields.io/badge/AI%20Engineer-Applied%20ML-1d4ed8?style=for-the-badge&logo=openai">
-  </a>
-  <a href="https://github.com/CharmTzy">
-    <img alt="GitHub Pro" src="https://img.shields.io/badge/GitHub-Pro-0f172a?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/CharmTzy?tab=repositories">
-    <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-Learning%20in%20public-22c55e?style=for-the-badge&logo=github">
-  </a>
-</p>
-
 ## Hi, I'm Wai Yan
 
 I build AI and data projects that move from notebook experiments into useful software. My current focus is applied machine learning, detection systems, data visualization, and full-stack products that make model outputs easier to understand and use.
