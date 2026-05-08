@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:1d4ed8,100:22c55e&text=Wai%20Yan%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Machine%20Learning%20%2B%20Data%20%2B%20Product%20Engineering&descAlignY=58&descSize=16" alt="Wai Yan | AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:1d4ed8,100:22c55e&text=Wai%20Yan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%2B%20Software%20Developer&descAlignY=58&descSize=18" alt="Wai Yan | AI Engineer + Software Developer" />
 </p>
 
 ## Hi, I'm Wai Yan
+
+**AI Engineer + Software Developer**
 
 I build AI and data projects that move from notebook experiments into useful software. My current focus is applied machine learning, detection systems, data visualization, and full-stack products that make model outputs easier to understand and use.
 
