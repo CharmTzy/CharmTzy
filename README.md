@@ -157,10 +157,10 @@ I build **production-ready web applications** with clean UI, practical AI integr
 
 <p align="center">
   <a href="https://github.com/CharmTzy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=CharmTzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38BDF8&title_color=38BDF8" alt="GitHub stats" />
+    <img height="170" src="./assets/github-stats.svg" alt="GitHub stats" />
   </a>
   <a href="https://github.com/CharmTzy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharmTzy&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top languages" />
+    <img height="170" src="./assets/top-languages.svg" alt="Top languages" />
   </a>
 </p>
 
