@@ -170,12 +170,6 @@ I build **production-ready web applications** with clean UI, practical AI integr
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/CharmTzy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CharmTzy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌐 Let's Connect
