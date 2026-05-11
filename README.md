@@ -143,13 +143,14 @@ I build **production-ready web applications** with clean UI, practical AI integr
 
 ---
 
-### 💼 Experience Snapshot
+### 💼 Experience
 
 | Role | Where | When |
 | :--- | :--- | :--- |
-| **Freelance Developer** | Independent | 2023 – Present |
-| **IT Application Engineer** | [BitCare](https://bitcare.sg) — Singapore | 2024 – 2025 |
-| **Software Engineer** *(Academic Projects)* | Singapore Institute of Technology | 2022 – 2025 |
+| **Diploma in Information Technology** | Singapore Polytechnic | 2022 – 2025 |
+| **IT Application Engineer** | [BitCare](https://bitcare.sg) | Mar 2024 – Jan 2025 |
+| **Freelancer** | Independent | 2024 – Ongoing |
+| **Bachelor of Science in Applied Artificial Intelligence** | Singapore Institute of Technology | 2025 – Ongoing |
 
 ---
 
