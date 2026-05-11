@@ -156,15 +156,6 @@ I build **production-ready web applications** with clean UI, practical AI integr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/CharmTzy">
-    <img height="170" src="./assets/github-stats.svg" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/CharmTzy">
-    <img height="170" src="./assets/top-languages.svg" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=CharmTzy&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
   </a>
