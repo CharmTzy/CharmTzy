@@ -5,7 +5,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/CharmTzy"><img src="https://komarev.com/ghpvc/?username=CharmTzy&style=for-the-badge&color=38bdf8&label=Profile+Views" alt="Profile views" /></a>
   <a href="https://sg.linkedin.com/in/wai-yan-1839512a8"><img src="https://img.shields.io/badge/LinkedIn-Wai%20Yan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wai71308@gmail.com"><img src="https://img.shields.io/badge/Email-wai71308%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Available-22c55e?style=for-the-badge" alt="Availability" />
