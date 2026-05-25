@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 ```ts
-const waiYan = {
+const WaiYan = {
   role:       "AI Engineer",
   location:   "Singapore 🇸🇬",
   focus:      ["Web apps", "Practical AI", "Clean UI", "Production reliability"],
